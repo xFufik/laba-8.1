@@ -23,7 +23,6 @@ int main() {
         if (number[i] == '-' || number[i] == '.') {
             cerr << "Введите целое положительное число!";
             return 1;
-            break;
         }
     }
 
